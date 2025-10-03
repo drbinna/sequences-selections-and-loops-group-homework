@@ -20,9 +20,10 @@
 # Finally, it prints a pattern and a countdown using loops.
 
 # Reflection:
-# [Write YOUR OWN 2-3 sentences about what YOU learned, what was
-# challenging for YOU, or what YOU found interesting. This must be
-# different from your buddy's reflection.]
+# Using elif statements to create an interactive program (though outdated), and
+# challenge was that it was tricky to organise my statements and what I found most interesting was connecting the code
+#to one logic to make the program come alive.
+
 
 # ============================================
 
