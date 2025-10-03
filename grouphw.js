@@ -1,31 +1,31 @@
 // ============================================
 // CSC 111 – Introduction to Computing
 // Assignment: [Sequences, Selections, Loops]
-// Student Name: [Milca Medina]
-// Study Budies: Trenton Ashford and Obinna Amadi
-// Z Number: Z91881809
+// Student Name: Obinna Amadi
+// Study Buddies: Trenton Ashford and Milca Medina 
+// Z Number: Z00040959
 // Date: [2025-10-01]
 // Instructor: Prof. Felicity M. Weed Jackson
-// File Name: grouphw.js <------ (change this based on assignment instructions!)
+// File Name: grouphw.js 
 // ============================================
 /* Description:
-This program demosntrates sequences, selections, and loops.
-It uses variables, if/else sttements, and for/while loops.
+This program demonstrates sequences, selections, and loops.
+It uses variables, if/else statements, and for/while loops.
 */
 
 /* How it works:
 First, it calculates a student's average grade (sequence).
 Then, it determines the letter grade using conditionals (selection).
-Finally, it prints a pattern and countdown using loops.
+Finally, it prints a pattern and a countdown using loops.
 */
 
 /* Reflection:
-[Write 2–3 sentences about what you learned, what was challenging,
-or what you found interesting about this assignment.]
+[I learned about how programs make decisions based on data. The most challenging was making sure conditions are in perfect order 
+And most interesting was switching output with my selection statements. 
 */
 // ============================================
 
-// [start coding here]
+
 
 // 1. SEQUENCE
 console.log("1. SEQUENCE EXAMPLE");
@@ -57,7 +57,7 @@ console.log(`Letter Grade: ${grade}\n`);
 console.log("3. ITERATION EXAMPLE");
 
 // Print a pattern based on student grades
-let letter_grade = "B"; // You can change this to the actual grade
+let letter_grade = "B"; 
 console.log("Pattern Example (Letter Grade Triangle)");
 for (let i = 1; i <= 5; i++) { // 5 rows
     console.log(letter_grade.repeat(i));
